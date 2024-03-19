@@ -23,5 +23,6 @@ adb logcat | grep 'expected:'
 ![image](https://github.com/ambushidozho/casino/assets/102957421/ce553dcb-8f44-4274-8ea1-34d8599ae25f)
 
 Вводим код, побеждаем
+
 ![image](https://github.com/ambushidozho/casino/assets/102957421/834aefdd-81b2-4dac-a8e6-140f0c8a9600)
 
